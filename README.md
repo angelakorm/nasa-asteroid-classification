@@ -10,4 +10,5 @@ Models trained:
 6. Decision Tree Classification
 7. Random Forest Classification
 
-This project was developed using [Google Colab](https://colab.research.google.com/), which provides a free cloud-based environment for running Jupyter notebooks.
+This project was developed using [Google Colab](https://colab.research.google.com/), which provides a free cloud-based environment for running Jupyter notebooks.  
+The Notebook can be accessed [here](https://colab.research.google.com/github/angelakorm/nasa-asteroid-classification/blob/main/Asteroid_Classification.ipynb).
